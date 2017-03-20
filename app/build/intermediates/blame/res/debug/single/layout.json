@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_list.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\friend_list.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\contact_list.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friends.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\friends.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\twitter.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\twitter.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\contacts.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_menu.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\list_menu.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\account.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\facebook.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\layout\\facebook.xml"
+    }
+]

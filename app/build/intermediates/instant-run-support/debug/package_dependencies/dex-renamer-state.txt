@@ -1,0 +1,4 @@
+#Tue Mar 21 02:58:46 BDT 2017
+base.0=D\:\\android project\\WatchBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_85e6febf8f600de27c8e7dffad093f16547e807b
+renamed.0=classes.dex
+file.0=D\:\\android project\\WatchBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_85e6febf8f600de27c8e7dffad093f16547e807b\\classes.dex

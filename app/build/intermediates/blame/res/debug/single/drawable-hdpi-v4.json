@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_btn.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\login_btn.jpg"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loss_pass.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\loss_pass.jpg"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sett_button.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\sett_button.jpg"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\register.jpg"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\devider_line.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\devider_line.jpg"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\divider.jpg"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\details_back.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\details_back.jpg"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconlogomain.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\iconlogomain.jpg"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_from.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\login_from.jpg"
+    }
+]

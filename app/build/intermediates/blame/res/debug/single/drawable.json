@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable\\button_style.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_back.xml",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable\\img_back.xml"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_bingo.png",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable\\logo_bingo.png"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p_img.jpg",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable\\p_img.jpg"
+    }
+]

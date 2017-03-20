@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android project\\WatchBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\userfield.png",
+        "source": "D:\\android project\\WatchBook\\app\\src\\main\\res\\drawable-hdpi\\userfield.png"
+    }
+]

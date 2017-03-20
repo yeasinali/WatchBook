@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android project\WatchBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9647a6627cd23162d1e64668c7d6091461f0620">
+        <dex dex="D:\android project\WatchBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b46fe982d5c4a9d526abcc68b408a2362072e7c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android project\WatchBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\android project\WatchBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fcbbbada252c52cbd32fda3ea658e2929aed184d\classes.dex" />
+    </item>
+
+</items>

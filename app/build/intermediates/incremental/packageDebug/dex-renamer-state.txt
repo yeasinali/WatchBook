@@ -1,0 +1,7 @@
+#Tue Mar 21 02:58:47 BDT 2017
+base.0=D\:\\android project\\WatchBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fcbbbada252c52cbd32fda3ea658e2929aed184d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\android project\\WatchBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b46fe982d5c4a9d526abcc68b408a2362072e7c7\\classes.dex
+base.1=D\:\\android project\\WatchBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b46fe982d5c4a9d526abcc68b408a2362072e7c7
+file.0=D\:\\android project\\WatchBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fcbbbada252c52cbd32fda3ea658e2929aed184d\\classes.dex
